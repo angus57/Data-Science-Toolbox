@@ -1,5 +1,2 @@
-# Data-Science-Projects
-This will be my files and folders for my datascience projects
-
-Test Lorem Ipsum
-and test the tested test
+# R - Markdown with ShinyApp
+This is one of my first attempts at replicating an R Markdown App with Shiny
